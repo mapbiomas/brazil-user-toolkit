@@ -508,6 +508,7 @@ var App = {
                 129: '2. Industrial/2.1 Energéticas/2.1.03 Gás natural e petróleo',
                 201: '1. Garimpo/1.1 Metálicas/Metálicas',
                 202: '1. Garimpo/1.1 Metálicas/1.1.03 Outros',
+                203: '1. Garimpo/1.1 Metálicas/1.1.03 Outros',
                 214: '1. Garimpo/1.1 Metálicas/1.1.02 Estanho',
                 215: '1. Garimpo/1.1 Metálicas/1.1.01 Ouro',
                 216: '1. Garimpo/1.2 Não Metálicas/Não Metálicas',
